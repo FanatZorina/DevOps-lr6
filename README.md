@@ -1,4 +1,4 @@
-<img width="974" height="472" alt="image" src="https://github.com/user-attachments/assets/0586b85b-f75d-4a01-993c-e2c7ce78ada8" /># ФИТ-2024 НМ. Кулаков Андрей. DevOps. ЛР6
+# ФИТ-2024 НМ. Кулаков Андрей. DevOps. ЛР6
 # Часть1
 ## Создаём структуру (папки и файлы)
 <img width="339" height="298" alt="image" src="https://github.com/user-attachments/assets/43dde9f0-9c33-4e6d-87d3-68af43bcb40a" />
@@ -13,12 +13,12 @@
 <img width="974" height="823" alt="image" src="https://github.com/user-attachments/assets/a8bc1adf-6783-4b2e-b48d-a72ff9b6d6a4" />
 
 # Часть2
-##Для начала в самом GiteHube внесём ключ ssh от ВМ
+## Для начала в самом GiteHube внесём ключ ssh от ВМ
 <img width="974" height="323" alt="image" src="https://github.com/user-attachments/assets/4f07d821-599e-47ea-a2ad-384fe49bbf51" />
-##Проверяем свзяь с гитом и клонируем
+## Проверяем свзяь с гитом и клонируем
 <img width="974" height="173" alt="image" src="https://github.com/user-attachments/assets/a7be012a-e26b-4cfb-941e-b5b443090584" />
 <img width="920" height="213" alt="image" src="https://github.com/user-attachments/assets/8edf4cd6-f516-43b0-b42c-14abfb317a2d" />
-##Делаем два файла скриптов в папке github/workflows
+## Делаем два файла скриптов в папке github/workflows
 - devops_course_pipeline.yml-тестовый сценарий
 - lint.yml-сценарий проверяет код на ошибки(на скрине видно, что есть ошибка отсутствие прописаной версии)
 <img width="974" height="443" alt="image" src="https://github.com/user-attachments/assets/133f3042-8828-4b47-9d9c-58df70299b30" />
